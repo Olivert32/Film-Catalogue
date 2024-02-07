@@ -1,0 +1,69 @@
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.exe
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.deps.json
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.runtimeconfig.json
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.dll
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.pdb
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.AssemblyReference.cache
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmHomepage.resources
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.GenerateResource.cache
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.AssemblyInfoInputs.cache
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.AssemblyInfo.cs
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.CoreCompileInputs.cache
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.dll
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\refint\CourseWorkForms.dll
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.pdb
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.genruntimeconfig.cache
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\ref\CourseWorkForms.dll
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmList.resources
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmActorList.resources
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmUserList.resources
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmTrivia.resources
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmSynopses.resources
+C:\Uni Work\Semester 1\Programming\Course Work\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.UserActorList.resources
+C:\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.exe
+C:\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.deps.json
+C:\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.runtimeconfig.json
+C:\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.dll
+C:\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.pdb
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.AssemblyReference.cache
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmActorList.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmList.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmSynopses.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmTrivia.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmHomepage.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.UserActorList.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmUserList.resources
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.GenerateResource.cache
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.AssemblyInfoInputs.cache
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.AssemblyInfo.cs
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.CoreCompileInputs.cache
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.dll
+C:\CourseWorkForms\obj\Debug\net6.0-windows\refint\CourseWorkForms.dll
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.pdb
+C:\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.genruntimeconfig.cache
+C:\CourseWorkForms\obj\Debug\net6.0-windows\ref\CourseWorkForms.dll
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.exe
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.deps.json
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.runtimeconfig.json
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.dll
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\bin\Debug\net6.0-windows\CourseWorkForms.pdb
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.AssemblyReference.cache
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmActorList.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmList.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmSynopses.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmFilmTrivia.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmHomepage.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.UserActorList.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.frmUserList.resources
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.GenerateResource.cache
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.AssemblyInfoInputs.cache
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.AssemblyInfo.cs
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.csproj.CoreCompileInputs.cache
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.dll
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\refint\CourseWorkForms.dll
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.pdb
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\CourseWorkForms.genruntimeconfig.cache
+C:\Uni Work\Year 1\Semester 1\CourseWorkForms\obj\Debug\net6.0-windows\ref\CourseWorkForms.dll
